@@ -53,6 +53,7 @@ export const _apiUrls = {
         reward: appPath('/v1/user/rewards'),
         redeem: appPath('/v1/user/rewards/redeem'),
 
+        faqs: appPath('/v1/master/faqs'),
 
     },
     masters: {
